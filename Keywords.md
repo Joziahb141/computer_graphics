@@ -11,10 +11,10 @@
 > example back
 > ```
 
+
 Matrix
 ?
 ...
-
 matrices
 ?
 ...
@@ -76,7 +76,7 @@ list
 
 coordinate
 ?
-...
+[[coordinates]]
 
 component (of a vector)
 ?
