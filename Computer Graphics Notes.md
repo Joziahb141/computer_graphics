@@ -37,7 +37,7 @@ You may use words, numerical workings, and diagrams in your responses to show yo
 5. [Previous papers](https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=91908)
 6. [Achievement Standard](https://www.nzqa.govt.nz/nqfdocs/ncea-resource/achievements/2019/as91908.pdf)
 
-# Analysing Computer Graphics - Achieved
+# Analyzing Computer Graphics - Achieved
 
 ## Key Aspects of Computer Graphics 
 
