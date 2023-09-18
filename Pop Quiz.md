@@ -23,7 +23,7 @@ a. $$
 \begin{bmatrix}
 3 \\ 6
 \end{bmatrix}
-=
++
 \begin{bmatrix}
 12 \\ -6
 \end{bmatrix}
